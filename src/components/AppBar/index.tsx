@@ -16,7 +16,7 @@ export default function ButtonAppBar() {
                             Image Cropper
                         </b>
                     </Typography>
-                    <a href="https://github.com/monilgoyal/imagecropper.git" target="_blank">
+                    <a href="https://github.com/monilgoyal/imagecropper.git"  >
                         <Button color="inherit"><GitHubIcon sx={{ mx: 1 }} />Source Code</Button>
                     </a>
                 </Toolbar>
